@@ -1,8 +1,8 @@
-## Hola 
+## Hello 
 
 I'm **Ean**
 	
- 	* Currently JUNIOR IT DEVELOPER at surplus
+ 	* Currently JUNIOR IT DEVELOPER at SURPLUS
 	
 	
 ***You can reach me on [LinkedIn](https://www.linkedin.com/in/eanp)***.
