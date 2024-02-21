@@ -4,4 +4,4 @@
 
 🚀 Javascript & Typescript
 
-🌐 Jakarta Timur
+🌐 East Jakarta | ID
